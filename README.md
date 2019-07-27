@@ -68,3 +68,7 @@
 ## Others
 
 1. **基于DGCNN和概率图的轻量级信息抽取模型**. *苏剑林*. Blog 2019. [blog](https://spaces.ac.cn/archives/6671) [code](https://github.com/bojone/kg-2019)
+2. **中文自然语言处理数据集列表**. *InsaneLife*. GitHub Repo. [github](https://github.com/InsaneLife/ChineseNLPCorpus)
+3. **Awesome-knowledge-graph**. *BrambleXu*. Github Repo. [github](https://github.com/BrambleXu/knowledge-graph-learning)
+4. **深度学习500问**. *Tan Jiyong*. Github Repo. [github](https://github.com/scutan90/DeepLearning-500-questions)
+5. **深度学习与自然语言处理、知识图谱、对话系统**. *Li hanghang*. GitHub Repo. [github](https://github.com/lihanghang/Knowledge-Graph)
