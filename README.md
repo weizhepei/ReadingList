@@ -1,4 +1,5 @@
 # Reading List
+
 [Conference Deadline](https://jackietseng.github.io/conference_call_for_paper/conferences.html) is the primary productive force.
 
 ## Relational Triple Extraction
@@ -6,11 +7,15 @@
 1. **Entity-Relation Extraction as Multi-Turn Question Answering**. *Xiaoya Li, Fan Yin, Zijun Sun, Xiayu Li, Arianna Yuan, Duo Chai, Mingxin Zhou, Jiwei Li*. ACL 2019. [pdf](https://arxiv.org/pdf/1905.05529.pdf) [code](https://github.com/ShannonAI/Entity-Relation-As-Multi-Turn-QA)
 2. **GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction**. *Tsu-Jui Fu, Peng-Hsuan Li, and Wei-Yun Ma*. ACL 2019. [pdf](https://tsujuifu.github.io/pubs/acl19_graph-rel.pdf) [code](https://github.com/tsujuifu/pytorch_graph-rel)
 3. **A Hierarchical Framework for Relation Extraction with Reinforcement Learning**. *Ryuichi Takanobu, Tianyang Zhang, Jiexi Liu, Minlie Huang*. AAAI 2019. [pdf](https://arxiv.org/pdf/1811.03925.pdf) [code](https://github.com/truthless11/HRL-RE)
-4. **Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism**. *Xiangrong Zeng, Daojian Zeng, Shizhu He, Kang Liu, Jun Zhao*. ACL 2018. [pdf](https://www.aclweb.org/anthology/P18-1047) [code](https://github.com/xiangrongzeng/copy_re)
-5. **Adversarial training for multi-context joint entity and relation extraction**. *Giannis Bekoulis, Johannes Deleu, Thomas Demeester, Chris Develder*. EMNLP 2018. [pdf](https://www.aclweb.org/anthology/D18-1307v2) [code](https://github.com/bekou/multihead_joint_entity_relation_extraction)
-6. **Joint Extraction of Entities and Relations Based on a Novel Graph Scheme**. *Shaolei Wang, Yue Zhang, Wanxiang Che, Ting Liu*. IJCAI 2018. [pdf](http://ir.hit.edu.cn/~car/papers/ijcai18slwang.pdf) [code](https://github.com/hitwsl/joint-entity-relation)
-7. **Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme**. *Suncong Zheng, Feng Wang, Hongyun Bao, Yuexing Hao, Peng Zhou, Bo Xu*. ACL 2017. [pdf](https://arxiv.org/pdf/1706.05075.pdf) [code](https://github.com/zsctju/triplets-extraction)
-8. **CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases**. *Xiang Ren, Zeqiu Wu, Wenqi He, Meng Qu, Clare R. Voss, Heng Ji, Tarek F. Abdelzaher, Jiawei Han*. WWW 2017. [pdf](https://arxiv.org/pdf/1610.08763.pdf) [code](https://github.com/INK-USC/DS-RelationExtraction)
+4. **An Attention-based Model for Joint Extraction of Entities and Relations with Implicit Entity Features**. *Yan Zhou, Longtao Huang, Tao Guo, Songlin Hu, Jizhong Han*. WWW 2019. [pdf](https://dl.acm.org/citation.cfm?id=3317704)
+5. **QA4IE: A Question Answering based Framework for Information Extraction**. *Lin Qiu, Hao Zhou, Yanru Qu, Weinan Zhang, Suoheng Li, Shu Rong, Dongyu Ru, Lihua Qian, Kewei Tu, Yong Yu*. ISWC 2018. [pdf](https://arxiv.org/pdf/1804.03396.pdf) [code](https://github.com/SJTU-lqiu/QA4IE)
+6. **Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism**. *Xiangrong Zeng, Daojian Zeng, Shizhu He, Kang Liu, Jun Zhao*. ACL 2018. [pdf](https://www.aclweb.org/anthology/P18-1047) [code](https://github.com/xiangrongzeng/copy_re)
+7. **Extracting Entities and Relations with Joint Minimum Risk Training**. *Changzhi Sun, Yuanbin Wu, Man Lan, Shiliang Sun*. EMNLP 2018. [pdf](https://www.aclweb.org/anthology/D18-1249)
+8. **Adversarial training for multi-context joint entity and relation extraction**. *Giannis Bekoulis, Johannes Deleu, Thomas Demeester, Chris Develder*. EMNLP 2018. [pdf](https://www.aclweb.org/anthology/D18-1307v2) [code](https://github.com/bekou/multihead_joint_entity_relation_extraction)
+9. **Joint Extraction of Entities and Relations Based on a Novel Graph Scheme**. *Shaolei Wang, Yue Zhang, Wanxiang Che, Ting Liu*. IJCAI 2018. [pdf](http://ir.hit.edu.cn/~car/papers/ijcai18slwang.pdf) [code](https://github.com/hitwsl/joint-entity-relation)
+10. **Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme**. *Suncong Zheng, Feng Wang, Hongyun Bao, Yuexing Hao, Peng Zhou, Bo Xu*. ACL 2017. [pdf](https://arxiv.org/pdf/1706.05075.pdf) [code](https://github.com/zsctju/triplets-extraction)
+11. **CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases**. *Xiang Ren, Zeqiu Wu, Wenqi He, Meng Qu, Clare R. Voss, Heng Ji, Tarek F. Abdelzaher, Jiawei Han*. WWW 2017. [pdf](https://arxiv.org/pdf/1610.08763.pdf) [code](https://github.com/INK-USC/DS-RelationExtraction)
+12. **T2KG: An End-to-End System for Creating Knowledge Graph from Unstructured Text**. *Natthawut Kertkeidkachorn, Ryutaro Ichise*. AAAI 2017 Workshop. [pdf](https://www.aaai.org/ocs/index.php/WS/AAAIW17/paper/download/15129/14743) [demo](https://sites.google.com/view/t2kg-demo/home)
 
 ## General Seq2Seq (ner, pos, slot filling, etc.)
 
@@ -67,8 +72,8 @@
 
 ## Others
 
-1. **基于DGCNN和概率图的轻量级信息抽取模型**. *苏剑林*. Blog 2019. [blog](https://spaces.ac.cn/archives/6671) [code](https://github.com/bojone/kg-2019)
-2. **中文自然语言处理数据集列表**. *InsaneLife*. GitHub Repo. [github](https://github.com/InsaneLife/ChineseNLPCorpus)
-3. **Awesome-knowledge-graph**. *BrambleXu*. Github Repo. [github](https://github.com/BrambleXu/knowledge-graph-learning)
+1. **Awesome-knowledge-graph**. *BrambleXu*. Github Repo. [github [recommended]](https://github.com/BrambleXu/knowledge-graph-learning)
+2. 基于DGCNN和概率图的轻量级信息抽取模型**. *苏剑林*. Blog 2019. [blog](https://spaces.ac.cn/archives/6671) [code](https://github.com/bojone/kg-2019)
+3. **中文自然语言处理数据集列表**. *InsaneLife*. GitHub Repo. [github](https://github.com/InsaneLife/ChineseNLPCorpus)
 4. **深度学习500问**. *Tan Jiyong*. Github Repo. [github](https://github.com/scutan90/DeepLearning-500-questions)
-5. **深度学习与自然语言处理、知识图谱、对话系统**. *Li hanghang*. GitHub Repo. [github](https://github.com/lihanghang/Knowledge-Graph)
+5. **深度学习与自然语言处理、知识图谱、对话系统**. *Li hanghang*. GitHub Repo. [github](
