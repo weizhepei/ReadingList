@@ -1,5 +1,5 @@
 # Reading List
-A list of research resources that I've appreciated. 
+[Conference Deadline](https://jackietseng.github.io/conference_call_for_paper/conferences.html) is the primary productive force.
 
 ## Relational Triple Extraction
 
