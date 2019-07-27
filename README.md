@@ -1,5 +1,6 @@
-# Reading List 
-## [Conference Deadlines](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
+# Reading List
+A list of research resources that I've appreciated. 
+
 ## Relational Triple Extraction
 
 1. **Entity-Relation Extraction as Multi-Turn Question Answering**. *Xiaoya Li, Fan Yin, Zijun Sun, Xiayu Li, Arianna Yuan, Duo Chai, Mingxin Zhou, Jiwei Li*. ACL 2019. [pdf](https://arxiv.org/pdf/1905.05529.pdf) [code](https://github.com/ShannonAI/Entity-Relation-As-Multi-Turn-QA)
