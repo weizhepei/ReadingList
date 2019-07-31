@@ -38,9 +38,10 @@
 
 ## Relation Classification/Extraction
 
-1. **Cross-relation Cross-bag Attention for Distantly-supervised Relation Extraction**. *Yujin Yuan, Liyuan Liu, Siliang Tang, Zhongfei Zhang, Yueting Zhuang, Shiliang Pu, Fei Wu, Xiang Ren*. AAAI 2019. [pdf](https://arxiv.org/pdf/1812.10604.pdf) [code](https://github.com/yuanyu255/PCNN_C2SA)
-2. **Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention**. *Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, Peng Li*. EMNLP 2018. [pdf](https://aclweb.org/anthology/D18-1247) [code](https://github.com/thunlp/HNRE)
-3. **Multi-Task Transfer Learning for Weakly-Supervised Relation Extraction**. *Jing Jiang*. ACL 2009. [pdf](https://www.aclweb.org/anthology/P09-1114)
+1. **Fine-tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction**. *Christoph Alt, Marc Hübner, Leonhard Hennig*. [pdf](https://www.aclweb.org/anthology/P19-1134) [code](https://github.com/DFKI-NLP/DISTRE)
+2. **Cross-relation Cross-bag Attention for Distantly-supervised Relation Extraction**. *Yujin Yuan, Liyuan Liu, Siliang Tang, Zhongfei Zhang, Yueting Zhuang, Shiliang Pu, Fei Wu, Xiang Ren*. AAAI 2019. [pdf](https://arxiv.org/pdf/1812.10604.pdf) [code](https://github.com/yuanyu255/PCNN_C2SA)
+3. **Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention**. *Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, Peng Li*. EMNLP 2018. [pdf](https://aclweb.org/anthology/D18-1247) [code](https://github.com/thunlp/HNRE)
+4. **Multi-Task Transfer Learning for Weakly-Supervised Relation Extraction**. *Jing Jiang*. ACL 2009. [pdf](https://www.aclweb.org/anthology/P09-1114)
 
 ## Event Detection/Extraction/Prediction
 
