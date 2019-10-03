@@ -4,18 +4,25 @@
 
 ## Relational Triple Extraction
 
-1. **Entity-Relation Extraction as Multi-Turn Question Answering**. *Xiaoya Li, Fan Yin, Zijun Sun, Xiayu Li, Arianna Yuan, Duo Chai, Mingxin Zhou, Jiwei Li*. ACL 2019. [pdf](https://arxiv.org/pdf/1905.05529.pdf) [code](https://github.com/ShannonAI/Entity-Relation-As-Multi-Turn-QA)
-2. **GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction**. *Tsu-Jui Fu, Peng-Hsuan Li, and Wei-Yun Ma*. ACL 2019. [pdf](https://tsujuifu.github.io/pubs/acl19_graph-rel.pdf) [code](https://github.com/tsujuifu/pytorch_graph-rel)
-3. **A Hierarchical Framework for Relation Extraction with Reinforcement Learning**. *Ryuichi Takanobu, Tianyang Zhang, Jiexi Liu, Minlie Huang*. AAAI 2019. [pdf](https://arxiv.org/pdf/1811.03925.pdf) [code](https://github.com/truthless11/HRL-RE)
-4. **Joint Extraction of Entities and Overlapping Relations Using Position-Attentive Sequence Labeling**. *Dai Dai, Xinyan Xiao, Yajuan Lyu, Shan Dou, Qiaoqiao She, Haifeng Wang*. AAAI 2019. [pdf](https://aaai.org/ojs/index.php/AAAI/article/view/4591/4469)
+1. **GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction**. *Tsu-Jui Fu, Peng-Hsuan Li, and Wei-Yun Ma*. ACL 2019. [pdf](https://tsujuifu.github.io/pubs/acl19_graph-rel.pdf) [code](https://github.com/tsujuifu/pytorch_graph-rel)
+2. **Entity-Relation Extraction as Multi-Turn Question Answering**. *Xiaoya Li, Fan Yin, Zijun Sun, Xiayu Li, Arianna Yuan, Duo Chai, Mingxin Zhou, Jiwei Li*. ACL 2019. [pdf](https://arxiv.org/pdf/1905.05529.pdf) [code](https://github.com/ShannonAI/Entity-Relation-As-Multi-Turn-QA)
+3. **Joint Extraction of Entities and Overlapping Relations Using Position-Attentive Sequence Labeling**. *Dai Dai, Xinyan Xiao, Yajuan Lyu, Shan Dou, Qiaoqiao She, Haifeng Wang*. AAAI 2019. [pdf](https://aaai.org/ojs/index.php/AAAI/article/view/4591/4469)
+4. **A Hierarchical Framework for Relation Extraction with Reinforcement Learning**. *Ryuichi Takanobu, Tianyang Zhang, Jiexi Liu, Minlie Huang*. AAAI 2019. [pdf](https://arxiv.org/pdf/1811.03925.pdf) [code](https://github.com/truthless11/HRL-RE)
 5. **An Attention-based Model for Joint Extraction of Entities and Relations with Implicit Entity Features**. *Yan Zhou, Longtao Huang, Tao Guo, Songlin Hu, Jizhong Han*. WWW 2019 Companion. [pdf](https://dl.acm.org/citation.cfm?id=3317704)
 6. **Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism**. *Xiangrong Zeng, Daojian Zeng, Shizhu He, Kang Liu, Jun Zhao*. ACL 2018. [pdf](https://www.aclweb.org/anthology/P18-1047) [code](https://github.com/xiangrongzeng/copy_re)
-7. **Extracting Entities and Relations with Joint Minimum Risk Training**. *Changzhi Sun, Yuanbin Wu, Man Lan, Shiliang Sun*. EMNLP 2018. [pdf](https://www.aclweb.org/anthology/D18-1249)
+7. **Extracting Entities and Relations with Joint Minimum Risk Training**. *Changzhi Sun, Yuanbin Wu, Man Lan, Shiliang Sun*. EMNLP 2018. [pdf](https://www.aclweb.org/anthology/D18-1249) [code](https://github.com/changzhisun/entrel-joint-mrt)
 8. **Adversarial training for multi-context joint entity and relation extraction**. *Giannis Bekoulis, Johannes Deleu, Thomas Demeester, Chris Develder*. EMNLP 2018. [pdf](https://www.aclweb.org/anthology/D18-1307v2) [code](https://github.com/bekou/multihead_joint_entity_relation_extraction)
-9. **Joint Extraction of Entities and Relations Based on a Novel Graph Scheme**. *Shaolei Wang, Yue Zhang, Wanxiang Che, Ting Liu*. IJCAI 2018. [pdf](http://ir.hit.edu.cn/~car/papers/ijcai18slwang.pdf) [code](https://github.com/hitwsl/joint-entity-relation)
-10. **Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme**. *Suncong Zheng, Feng Wang, Hongyun Bao, Yuexing Hao, Peng Zhou, Bo Xu*. ACL 2017. [pdf](https://arxiv.org/pdf/1706.05075.pdf) [code](https://github.com/zsctju/triplets-extraction)
-11. **CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases**. *Xiang Ren, Zeqiu Wu, Wenqi He, Meng Qu, Clare R. Voss, Heng Ji, Tarek F. Abdelzaher, Jiawei Han*. WWW 2017. [pdf](https://arxiv.org/pdf/1610.08763.pdf) [code](https://github.com/INK-USC/DS-RelationExtraction)
-12. **T2KG: An End-to-End System for Creating Knowledge Graph from Unstructured Text**. *Natthawut Kertkeidkachorn, Ryutaro Ichise*. AAAI 2017 Workshop. [pdf](https://www.aaai.org/ocs/index.php/WS/AAAIW17/paper/download/15129/14743) [demo](https://sites.google.com/view/t2kg-demo/home)
+9. **Joint Extraction of Entities and Relations Based on a Novel Graph Scheme**. *Shaolei Wang, Yue Zhang, Wanxiang Che, Ting Liu*. IJCAI 2018. [pdf](https://www.ijcai.org/proceedings/2018/0620.pdf) [code](https://github.com/hitwsl/joint-entity-relation)
+10. **Heterogeneous Supervision for Relation Extraction: A Representation Learning Approach**. *Liyuan Liu, Xiang Ren, Qi Zhu, Shi Zhi, Huan Gui, Heng Ji, Jiawei Han*. EMNLP 2017. [pdf](https://arxiv.org/pdf/1707.00166.pdf) [code](https://github.com/LiyuanLucasLiu/ReHession)
+11. **End-to-End Neural Relation Extraction with Global Optimization**. *Meishan Zhang, Yue Zhang, Guohong Fu*. EMNLP 2017. [pdf](https://www.aclweb.org/anthology/D17-1182.pdf)
+12. **Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme**. *Suncong Zheng, Feng Wang, Hongyun Bao, Yuexing Hao, Peng Zhou, Bo Xu*. ACL 2017. [pdf](https://arxiv.org/pdf/1706.05075.pdf) [code](https://github.com/zsctju/triplets-extraction)
+13. **Going out on a limb: Joint Extraction of Entity Mentions and Relations without Dependency Trees**. *Arzoo Katiyar, Claire Cardie*. ACL 2017. [pdf](https://www.aclweb.org/anthology/P17-1085.pdf)
+14. **CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases**. *Xiang Ren, Zeqiu Wu, Wenqi He, Meng Qu, Clare R. Voss, Heng Ji, Tarek F. Abdelzaher, Jiawei Han*. WWW 2017. [pdf](https://arxiv.org/pdf/1610.08763.pdf) [code](https://github.com/INK-USC/DS-RelationExtraction)
+15. **End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures**. *Makoto Miwa, Mohit Bansal*. ACL 2016. [pdf](https://www.aclweb.org/anthology/P16-1105.pdf) [code](https://github.com/tticoin/LSTM-ER)
+16. **Improved Relation Extraction with Feature-Rich Compositional Embedding Models**. *Matthew R. Gormley, Mo Yu, Mark Dredze*. EMNLP 2015. [pdf](https://www.aclweb.org/anthology/D15-1205.pdf)
+17. **Modeling Joint Entity and Relation Extraction with Table Representation**. *Makoto Miwa, Yutaka Sasaki*. EMNLP 2014. [pdf](https://www.aclweb.org/anthology/D14-1200.pdf) [code](https://github.com/tticoin/JointER)
+18. **Incremental Joint Extraction of Entity Mentions and Relations**. *Qi Li, Heng, Ji*. ACL 2014. [pdf](https://www.aclweb.org/anthology/P14-1038.pdf)
+19. **Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations**. *Raphael Hoffmann, Congle Zhang, Xiao Ling, Luke Zettlemoyer, Daniel S. Weld*. ACL 2011. [pdf](https://www.aclweb.org/anthology/P11-1055.pdf) [code](http://raphaelhoffmann.com/mr/)
 
 ## General Seq2Seq (ner, pos, slot filling, etc.)
 
@@ -61,6 +68,10 @@
 5. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**. *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova*. NAACL 2019. [pdf](https://www.aclweb.org/anthology/N19-1423) [code](https://github.com/google-research/bert)
 6. **Improving Language Understanding by Generative Pre-Training**.  *Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever*. Preprint 2018. [pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) [code](https://github.com/openai/finetune-transformer-lm)
 7. **Attention Is All You Need**. *Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin*. NIPS 2017. [pdf](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) [code](https://github.com/tensorflow/tensor2tensor)
+
+## Knowledge Graph System
+
+1. **T2KG: An End-to-End System for Creating Knowledge Graph from Unstructured Text**. *Natthawut Kertkeidkachorn, Ryutaro Ichise*. AAAI 2017 Workshop. [pdf](https://www.aaai.org/ocs/index.php/WS/AAAIW17/paper/download/15129/14743) [demo](https://sites.google.com/view/t2kg-demo/home)
 
 ## Representation learning
 
